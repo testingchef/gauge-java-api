@@ -17,8 +17,8 @@ OK is returned when doing a GET to the /made_up endpoint
 ------------------------------------------------------------
 
 * Get to the "made_up" endpoint
-* Then the response will be "OK"
-* The response code should be "200"
+* Then the response will be "Not Found"
+* The response code should be "404"
 
 Details of the last response is returned when doing a GET to /made_up/last endpoint
 ---------------------------------------------------------------------------------------
